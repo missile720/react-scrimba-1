@@ -1,0 +1,26 @@
+.mainBody{
+    background-color: #282D35;
+    background-image: url("../images/react-icon-large.png");
+    background-repeat: no-repeat;
+    background-position: 100% 75%;
+    padding: 10px;
+}
+
+.mainTitle{
+    padding: 40px 20px;
+    color: white;
+    margin: 0;
+}
+
+.mainList{
+    max-width: 400px;
+}
+
+.mainList > li {
+    color: white;
+    padding: 10px;
+}
+.mainList > li::marker {
+    font-size: 1.4rem;
+    color: #61DAFB;
+}

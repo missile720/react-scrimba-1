@@ -1,0 +1,23 @@
+.navBar{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    background-color: #21222A;
+    height: 90px;
+}
+
+#navIcon{
+    width: 30px;
+}
+
+.iconText{
+    color: #61DAFB;
+    margin-right: auto;
+    padding: 5px;
+    font-weight: 700;
+}
+
+.navInfo{
+    color: #DEEBF8;
+    font-weight: 600;
+}
